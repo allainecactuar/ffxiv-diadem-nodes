@@ -1,5 +1,5 @@
 Gathering nodes, locations, contents, and +2 Yield / +5 Attempts
-bonuses are all static. Other bonuses (+1 Yield) are random.
+bonuses are all static. Other bonuses (+1 Yield) are random (I think).
 
 There are 192 gathering nodes in the Diadem, in 24 groups of 8 nodes
 each.
@@ -28,125 +28,141 @@ Node 8 always has +5 attempts with high GP requirement. This means if
 you're doing the inner and outer tracks in parallel and you want to
 use KY2/BH2 on both, you will need to be able to burst spend 1000 GP.
 
+The mats listed all belong to the "Grade 2 Artisanal Skybuilders'"
+family. If you want one of the lower tier mats, figure out which one
+of these it appears with.
+
 MIN inner 1 (E of spawn island)
 1 jade
-2 ar sand
+2 aurum regis sand
 3 spring water
 4 rock salt
-5 cloud stone
+5 cloudstone
 6 jade
-7 ar sand (+2 yield - perception)
-8 spring water (+5 attempts - gp)
+7 aurum regis sand (+2 yield - Perception>=2345)
+8 spring water (+5 attempts - GP>=836)
 
 MIN outer 1 (E of spawn island)
-1
-2
-3
-4
-5
-6
-7
-8
+1 cloudstone
+2 rock salt
+3 spring water
+4 aurum regis sand
+5 jade
+6 cloudstone
+7 rock salt (+2 yield - Gathering>=2421)
+8 spring water (+5 attempts GP>=836)
 
-MIN inner 2
-1
-2
-3
-4
-5
-6
-7
-8
+MIN inner 2 (18.6, 11.9)
+1 aurum regis sand
+2 spring water
+3 rock salt
+4 cloudstone
+5 jade
+6 aurum regis sand
+[next island]
+7 spring water (+2 yield - Perception>=2345)
+8 aurum regis sand (+5 attempts GP>=836)
 
-MIN outer 2
-1
-2
-3
-4
-5
-6
-7
-8
+MIN outer 2 (16.5, 11.2)
+1 rock salt
+2 spring water
+3 aurum regis sand
+4 jade
+5 cloudstone
+6 rock salt
+[next island]
+7 spring water (+2 yield - Gathering>=2421)
+8 rock salt (+5 attempts GP>=836)
 
-MIN inner 3
-1
-2
-3
-4
-5
-6
-7
-8
+MIN inner 3 (28, 8.2)
+1 spring water
+2 rock salt
+3 cloudstone
+[next island]
+4 jade
+5 aurum regis sand
+6 spring water
+7 rock salt (+2 yield - Perception>=2345)
+[next island]
+8 cloudstone (+5 attempts GP>=836)
 
-MIN outer 3
-1
-2
-3
-4
-5
-6
-7
-8
+MIN outer 3 (27.5, 6)
+1 spring water
+2 aurum regis sand
+3 jade
+[next island]
+4 cloudstone
+5 rock salt
+6 spring water
+7 aurum regis sand (+2 yield - Gathering>=2421)
+[next island]
+8 jade (+5 attempts GP>=836)
 
-MIN inner 4
-1
-2
-3
-4
-5
-6
-7
-8
+MIN inner 4 (34.2, 13.1)
+1 rock salt
+2 cloudstone
+3 jade
+4 aurum regis sand
+5 spring water
+[next island]
+6 rock salt
+7 cloudstone (+2 yield - Perception>=2345)
+8 jade (+5 attempts GP>=836)
 
-MIN outer 4
-1
-2
-3
-4
-5
-6
-7
-8
+MIN outer 4 (34.3, 13.1)
+1 aurum regis sand
+2 jade
+3 cloudstone
+4 rock salt
+5 spring water
+[next island]
+6 aurum regis sand
+7 jade (+2 yield - Gathering>=2421)
+8 cloudstone (+5 attempts GP>=836)
 
-MIN inner 5
-1
-2
-3
-4
-5
-6
-7
-8
+MIN inner 5 (28.9, 28.5)
+1 cloudstone
+2 jade
+[next island]
+3 aurum regis sand
+4 spring water
+5 rock salt
+6 cloudstone
+7 jade (+2 yield - Perception>=2345)
+8 aurum regis sand (+5 attempts GP>=836)
 
-MIN outer 5
-1
-2
-3
-4
-5
-6
-7
-8
+MIN outer 5 (30, 30.4)
+1 jade
+2 cloudstone
+[next island]
+3 rock salt
+4 spring water
+5 aurum regis sand
+6 jade
+7 cloudstone (+2 yield - Gathering>=2421)
+8 rock salt (+5 attempts GP>=836)
 
-MIN inner 6
-1
-2
-3
-4
-5
-6
-7
-8
+MIN inner 6 (20.3, 31.7)
+1 jade
+2 aurum regis sand
+[next island]
+3 spring water
+4 rock salt
+5 cloudstone
+6 jade
+7 aurum regis sand (+2 yield - Perception>=2345)
+8 spring water (+5 attempts GP>=836)
 
-MIN outer 6
-1
-2
-3
-4
-5
-6
-7
-8
+MIN outer 6 (19, 34.1)
+1 cloudstone
+2 rock salt
+[next island]
+3 spring water
+4 aurum regis sand
+5 jade
+6 cloudstone
+7 rock salt (+2 yield - Gathering>=2421)
+8 spring water (+5 attempts GP>=836)
 
 BTN inner 1 (S of spawn island)
 1 hardened sap
@@ -155,8 +171,8 @@ BTN inner 1 (S of spawn island)
 4
 5
 6
-7
-8
+7 (+2 yield - Perception>=2345)
+8 (+5 attempts GP>=836)
 
 BTN outer 1
 1 skybuilders wheat
@@ -165,8 +181,8 @@ BTN outer 1
 4
 5
 6
-7
-8
+7 (+2 yield - Gathering>=2421)
+8 (+5 attempts GP>=836)
 
 BTN inner 2
 1
@@ -175,8 +191,8 @@ BTN inner 2
 4
 5
 6
-7
-8
+7 (+2 yield - Perception>=2345)
+8 (+5 attempts GP>=836)
 
 BTN outer 2
 1
@@ -185,8 +201,8 @@ BTN outer 2
 4
 5
 6
-7
-8
+7 (+2 yield - Gathering>=2421)
+8 (+5 attempts GP>=836)
 
 BTN inner 3
 1
@@ -195,8 +211,8 @@ BTN inner 3
 4
 5
 6
-7
-8
+7 (+2 yield - Perception>=2345)
+8 (+5 attempts GP>=836)
 
 BTN outer 3
 1
@@ -205,8 +221,8 @@ BTN outer 3
 4
 5
 6
-7
-8
+7 (+2 yield - Gathering>=2421)
+8 (+5 attempts GP>=836)
 
 BTN inner 4
 1
@@ -215,8 +231,8 @@ BTN inner 4
 4
 5
 6
-7
-8
+7 (+2 yield - Perception>=2345)
+8 (+5 attempts GP>=836)
 
 BTN outer 4
 1
@@ -225,8 +241,8 @@ BTN outer 4
 4
 5
 6
-7
-8
+7 (+2 yield - Gathering>=2421)
+8 (+5 attempts GP>=836)
 
 BTN inner 5
 1
@@ -235,8 +251,8 @@ BTN inner 5
 4
 5
 6
-7
-8
+7 (+2 yield - Perception>=2345)
+8 (+5 attempts GP>=836)
 
 BTN outer 5
 1
@@ -245,8 +261,8 @@ BTN outer 5
 4
 5
 6
-7
-8
+7 (+2 yield - Gathering>=2421)
+8 (+5 attempts GP>=836)
 
 BTN inner 6
 1
@@ -255,8 +271,8 @@ BTN inner 6
 4
 5
 6
-7
-8
+7 (+2 yield - Perception>=2345)
+8 (+5 attempts GP>=836)
 
 BTN outer 6
 1
@@ -265,5 +281,5 @@ BTN outer 6
 4
 5
 6
-7
-8
+7 (+2 yield - Gathering>=2421)
+8 (+5 attempts GP>=836)
