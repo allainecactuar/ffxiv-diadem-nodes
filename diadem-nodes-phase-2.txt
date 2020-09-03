@@ -1,0 +1,269 @@
+Gathering nodes, locations, contents, and +2 Yield / +5 Attempts
+bonuses are all static. Other bonuses (+1 Yield) are random.
+
+There are 192 gathering nodes in the Diadem, in 24 groups of 8 nodes
+each.
+
+The 24 groups are broken into 4 tracks of 6 groups each.
+
+Only one node from each group is visible at a time. When you enter
+Diadem, node 1 from each group is visible. After clearing that node,
+node 2 appears, and so on. After clearing node 8, node 1 becomes
+available again.
+
+For MIN nodes, the next numbered node will be clockwise around the
+zone. For BTN, the nodes are numbered counterclockwise
+(anticlockwise).
+
+After gathering node 8 in a group, if you keep moving in the direction
+you were going, you will be moving to the next group. Or you can go
+back to the beginning of the group you just finished since node 1 will
+be back up.
+
+Node 7 always has +2 yield with high stat requirement. On the inner
+tracks, the stat requirement is Perception. On the outer tracks it's
+Gathering.
+
+Node 8 always has +5 attempts with high GP requirement. This means if
+you're doing the inner and outer tracks in parallel and you want to
+use KY2/BH2 on both, you will need to be able to burst spend 1000 GP.
+
+MIN inner 1 (E of spawn island)
+1 jade
+2 ar sand
+3 spring water
+4 rock salt
+5 cloud stone
+6 jade
+7 ar sand (+2 yield - perception)
+8 spring water (+5 attempts - gp)
+
+MIN outer 1 (E of spawn island)
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN inner 2
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN outer 2
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN inner 3
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN outer 3
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN inner 4
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN outer 4
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN inner 5
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN outer 5
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN inner 6
+1
+2
+3
+4
+5
+6
+7
+8
+
+MIN outer 6
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN inner 1 (S of spawn island)
+1 hardened sap
+2
+3
+4
+5
+6
+7
+8
+
+BTN outer 1
+1 skybuilders wheat
+2
+3
+4
+5
+6
+7
+8
+
+BTN inner 2
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN outer 2
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN inner 3
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN outer 3
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN inner 4
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN outer 4
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN inner 5
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN outer 5
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN inner 6
+1
+2
+3
+4
+5
+6
+7
+8
+
+BTN outer 6
+1
+2
+3
+4
+5
+6
+7
+8
