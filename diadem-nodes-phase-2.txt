@@ -176,15 +176,15 @@ BTN inner 1 (S of spawn island)
 8 dawn lizard (+5 attempts GP>=836)
 
 BTN outer 1 (S of spawn island)
-1 skybuilders wheat
-2
-3
-4
-5
-6
+1 wheat
+2 cotton boll
+3 dawn lizard
+4 log
+5 hardened sap
+6 wheat
 [next island]
-7 (+2 yield - Gathering>=2421)
-8 (+5 attempts GP>=836)
+7 cotton boll (+2 yield - Gathering>=2421)
+8 dawn lizard (+5 attempts GP>=836)
 
 BTN inner 2 (29.9, 33.1)
 1 hardened sap
@@ -193,23 +193,26 @@ BTN inner 2 (29.9, 33.1)
 4 wheat
 5 log
 6 hardened sap
+[next island]
 7 dawn lizard (+2 yield - Perception>=2345)
 8 cotton boll (+5 attempts GP>=836)
 
 BTN outer 2 (20.6, 34.8)
 1 cotton boll
-2
-3
-4
-5
-6
-7 (+2 yield - Gathering>=2421)
-8 (+5 attempts GP>=836)
+2 dawn lizard
+3 log
+4 hardened sap
+5 wheat
+6 cotton boll
+[next island]
+7 dawn lizard (+2 yield - Gathering>=2421)
+8 hardened sap (+5 attempts GP>=836)
 
 BTN inner 3 (29.8, 28.3)
 1 dawn lizard
 2 cotton boll
 3 wheat
+[next island]
 4 hardened sap
 5 log
 6 dawn lizard
@@ -219,14 +222,15 @@ BTN inner 3 (29.8, 28.3)
 
 BTN outer 3 (31.8, 30.6)
 1 dawn lizard
-2
-3
-4
-5
-6
-7 (+2 yield - Gathering>=2421)
+2 log
+3 hardened sap
 [next island]
-8 (+5 attempts GP>=836)
+4 wheat
+5 cotton boll
+6 dawn lizard
+7 hardened sap (+2 yield - Gathering>=2421)
+[next island]
+8 log (+5 attempts GP>=836)
 
 BTN inner 4 (33.9, 13.1)
 1 cotton boll
@@ -243,14 +247,14 @@ BTN inner 4 (33.9, 13.1)
 BTN outer 4 (34.1, 12.9)
 1 hardened sap
 [next island]
-2
-3
-4
-5
+2 hardened sap
+3 wheat
+4 cotton boll
+5 dawn lizard
 [next island]
-6
-7 (+2 yield - Gathering>=2421)
-8 (+5 attempts GP>=836)
+6 log
+7 hardened sap (+2 yield - Gathering>=2421)
+8 wheat (+5 attempts GP>=836)
 
 BTN inner 5 (26.7, 8)
 1 wheat
@@ -267,12 +271,12 @@ BTN outer 5 (25.8, 6.4)
 1 hardened sap
 2 wheat
 [next island]
-3
-4
-5
-6
-7 (+2 yield - Gathering>=2421)
-8 (+5 attempts GP>=836)
+3 cotton boll
+4 dawn lizard
+5 log
+6 hardened sap
+7 wheat (+2 yield - Gathering>=2421)
+8 cotton boll (+5 attempts GP>=836)
 
 BTN inner 6 (18.4, 13.6)
 1 hardened sap
@@ -287,10 +291,11 @@ BTN inner 6 (18.4, 13.6)
 
 BTN outer 6 (15.3, 10.5)
 1 wheat
-2
-3
-4
-5
-6
-7 (+2 yield - Gathering>=2421)
-8 (+5 attempts GP>=836)
+2 cotton boll
+3 dawn lizard
+4 hardened sap
+5 log
+6 wheat
+7 cotton boll (+2 yield - Gathering>=2421)
+[next island]
+8 dawn lizard (+5 attempts GP>=836)
