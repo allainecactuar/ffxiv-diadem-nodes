@@ -32,6 +32,23 @@ The mats listed all belong to the "Grade 2 Artisanal Skybuilders'"
 family. If you want one of the lower tier mats, figure out which one
 of these it appears with.
 
+The MIN mats are strictly distributed according to a pattern. It's
+probably not worth explaining, but the net result is that there are 20
+spring water nodes and 19 of each other node. But 4 of the spring
+water nodes fall on the +5 gather bonus (compared to 2 for all other
+mats), so blindly gathering is likely to be heavy on the spring water.
+
+The BTN mats are distributed according to the same pattern except that
+logs are sometimes replaced by hardened sap according to a rule I
+haven't been able to reason out. So there are 25 hardened sap, 20 dawn
+lizard, 19 wheat, 19 cotton, and only 13 log nodes. This time it's
+dawn lizards that get 4 nodes on the +5 gathers. Critically, the logs
+do get 2 nodes on the +5 gather bonus just like the rest of the mats.
+And one of those falls on BTN outer 3, which is also the only group
+with more than one log node. So naive gathering is going to give you a
+bunch of hardened sap and a shortage of logs, but you can combat that
+pretty easily by focusing where logs are relatively more plentiful.
+
 MIN inner 1 (E of spawn island)
 1 jade
 2 aurum regis sand
