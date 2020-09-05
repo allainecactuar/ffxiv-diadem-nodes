@@ -1,3 +1,16 @@
+This doc is mostly about normal nodes, but might as well talk about
+the weather-based ones real quick. The weather-based nodes are pretty
+simple. Unlike normal zones, the weather in diadem just changes every
+10 minutes on the real clock, alternating between regular and special
+weather. So you get one of these nodes up every 20 minutes, and you
+have 10 minutes to get to it. But the special weather is random, one
+of them might repeat or not show up for a while, etc.
+
+Umbral Flare: Umbral Flarestone MIN (12.9, 9.7)
+Umbral Levin: Umbral Levinshard MIN (33.9, 13.2)
+Umbral Tempest: Umbral Galewood Log BTN (9.5, 30.3)
+Umbral Duststorm: Umbral Earthcap BTN (29.4, 33.1)
+
 Gathering nodes, locations, contents, and +2 Yield / +5 Attempts
 bonuses are all static. Other bonuses (+1 Yield) are random (I think).
 
