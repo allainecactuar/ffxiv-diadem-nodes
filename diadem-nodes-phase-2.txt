@@ -1,7 +1,7 @@
 This doc is mostly about normal nodes, but might as well talk about
-the weather-based ones real quick. The weather-based nodes are pretty
-simple. Unlike normal zones, the weather in diadem just changes every
-10 minutes on the real clock, alternating between regular and special
+the weather-based ones real quick. These nodes are pretty simple.
+Unlike normal zones, the weather in diadem just changes every 10
+minutes on the real clock, alternating between regular and special
 weather. So you get one of these nodes up every 20 minutes, and you
 have 10 minutes to get to it. But the special weather is random, one
 of them might repeat or not show up for a while, etc.
@@ -61,6 +61,12 @@ And one of those falls on BTN outer 3, which is also the only group
 with more than one log node. So naive gathering is going to give you a
 bunch of hardened sap and a shortage of logs, but you can combat that
 pretty easily by focusing where logs are relatively more plentiful.
+
+This same information with slightly less detail is duplicated in a
+spreadsheet, cause it's easier to look at it and decide which groups
+you want to harvest when it all fits on screen at once:
+
+https://docs.google.com/spreadsheets/d/1Pa2n89A3Gxo3dwXOZAp-o8vOZUsogXwmmjduxYZFeBg/edit?usp=sharing
 
 MIN inner 1 (E of spawn island)
 1 jade
