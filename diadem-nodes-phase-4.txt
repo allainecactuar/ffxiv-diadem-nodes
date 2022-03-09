@@ -1,0 +1,286 @@
+Spreadsheet: https://docs.google.com/spreadsheets/d/1pFXOFjdxxOthXyQ8tFuRZ9xvd7MODRgvvdGu_-NZc7c/edit?usp=sharing
+
+Timed nodes. RNG. 10m on / 10m off. Cycling out/into instance resets node.
+
+Umbral Flare: Umbral Flarerock MIN (12.9, 9.7) ARM GSM
+Umbral Levin: Umbral Levinsand MIN (33.9, 13.2) WVR ALC
+Umbral Tempest: Umbral Galewood Branch BTN (9.5, 30.3) CRP BSM
+Umbral Duststorm: Umbral Dirtleaf BTN (29.4, 33.1) LTW CUL
+
+RNG Bonuses for nodes 1-3,5,7:
++1 Yield Perception>=25
++1 Yield Gathering>=54
++1 Yield GP>=400
+
+MIN starts NE of spawn island, goes clockwise
+
+MIN 1A (10.3, 17.1)
+1 silex
+2 prismstone
+3 ice stalagmite
+4 spring water (+1 yield - Perception>=2642)
+5 cloudstone
+6 silex (+2 yield - Perception>=2642)
+7 prismstone
+8 ice stalagmite (+5 attempts - GP>=858)
+
+MIN 1B (9.8, 16.7)
+1 cloudstone
+2 spring water
+3 ice stalagmite
+4 prismstone (+1 yield - Gathering>=2740)
+5 silex
+6 cloudstone (+2 yield - Gathering>=2740)
+7 spring water
+8 ice stalagmite (+5 attempts GP>=858)
+
+MIN 2A (18.1, 13.8)
+1 prismstone
+2 ice stalagmite
+3 spring water
+4 cloudstone (+1 yield - Perception>=2642)
+5 silex
+6 prismstone  (+2 yield - Perception>=2642)
+7 ice stalagmite
+[next island]
+8 spring water (+5 attempts GP>=858)
+
+MIN 2B (18.1, 10.2)
+1 spring water
+2 ice stalagmite
+3 prismstone
+4 silex (+1 yield - Gathering>=2740)
+5 cloudstone
+6 spring water (+2 yield - Gathering>=2740)
+7 ice stalagmite
+[next island]
+8 prismstone (+5 attempts GP>=858)
+
+MIN 3A (27.6, 6.1)
+1 ice stalagmite
+2 spring water
+[next island]
+3 cloudstone
+4 silex (+1 yield - Perception>=2642)
+5 prismstone
+6 ice stalagmite (+2 yield - Perception>=2642)
+[next island]
+7 spring water
+8 cloudstone (+5 attempts GP>=858)
+
+MIN 3B (27.6, 8.6)
+1 ice stalagmite
+2 prismstone
+[next island]
+3 silex
+4 cloudstone (+1 yield - Gathering>=2740)
+5 spring water
+6 ice stalagmite (+2 yield - Gathering>=2740)
+[next island]
+7 prismstone
+[next island]
+8 silex (+5 attempts GP>=858)
+
+MIN 4A (36.1, 16.7)
+1 spring water
+2 cloudstone
+3 silex
+4 prismstone (+1 yield - Perception>=2642)
+5 ice stalagmite
+[next island]
+6 spring water (+2 yield - Perception>=2642)
+7 cloudstone
+8 silex (+5 attempts GP>=858)
+
+MIN 4B (35.1, 16.3)
+1 prismstone
+2 silex
+3 cloudstone
+4 spring water (+1 yield - Gathering>=2740)
+5 ice stalagmite
+[next island]
+6 prismstone (+2 yield - Gathering>=2740)
+7 silex
+8 cloudstone (+5 attempts GP>=858)
+
+MIN 5A (31.0, 28.4)
+1 cloudstone
+2 silex
+3 prismstone
+4 ice stalagmite (+1 yield - Perception>=2642)
+[next island]
+5 spring water
+6 cloudstone (+2 yield - Perception>=2642)
+7 silex
+8 prismstone (+5 attempts GP>=858)
+
+MIN 5B (32.7, 28.7)
+1 silex
+2 cloudstone
+3 spring water
+4 ice stalagmite (+1 yield - Gathering>=2740)
+[next island]
+5 prismstone
+6 silex (+2 yield - Gathering>=2740)
+7 cloudstone
+8 spring water (+5 attempts GP>=858)
+
+MIN 6A (20.0, 32.9)
+1 silex
+2 prismstone
+[next island]
+3 ice stalagmite
+4 spring water (+1 yield - Perception>=2642)
+5 cloudstone
+6 silex (+2 yield - Perception>=2642)
+7 prismstone
+[next island]
+8 cloudstone (!) (+5 attempts GP>=858)
+
+MIN 6B (20.3, 35.0)
+1 cloudstone
+2 spring water
+[next island]
+3 silex (!)
+4 prismstone (+1 yield - Gathering>=2740)
+5 silex
+6 cloudstone (+2 yield - Gathering>=2740)
+7 ice stalagmite (!)
+[next island]
+8 ice stalagmite (+5 attempts GP>=858)
+
+BTN 1A (6.7, 20.2)
+1 caiman
+[next island]
+2 cocoon
+3 barbgrass
+4 log (+1 yield - Gathering>=2740)
+5 raspberry
+[next island]
+6 caiman (+2 yield - Gathering>=2740)
+7 cocoon
+8 barbgrass (+5 attempts GP>=858)
+
+BTN 1B (7.1, 20.5)
+1 raspberry
+2 log
+3 barbgrass
+4 cocoon (+1 yield - Perception>=2642)
+5 caiman
+[next island]
+6 raspberry (+2 yield - Perception>=2642)
+7 log
+8 barbgrass (+5 attempts GP>=858)
+
+BTN 2A (22.2, 33.9)
+1 cocoon
+2 barbgrass
+3 log
+4 raspberry (+1 yield - Gathering>=2740)
+[next island]
+5 caiman
+6 cocoon (+2 yield - Gathering>=2740)
+7 barbgrass
+8 log (+5 attempts GP>=858)
+
+BTN 2B (23.4, 32.8)
+1 log
+2 barbgrass
+3 cocoon
+4 caiman (+1 yield - Perception>=2642)
+[next island]
+5 raspberry
+6 log (+2 yield - Perception>=2642)
+7 barbgrass
+8 cocoon (+5 attempts GP>=858)
+
+BTN 3A (30.8, 26.8)
+1 barbgrass
+2 log
+3 raspberry
+4 caiman (+1 yield - Gathering>=2740)
+5 cocoon
+6 barbgrass (+2 yield - Gathering>=2740)
+7 log
+[next island]
+8 raspberry (+5 attempts GP>=858)
+
+BTN 3B (33.0, 27.8)
+1 barbgrass
+2 cocoon
+3 caiman
+[next island]
+4 raspberry (+1 yield - Perception>=2642)
+5 log
+6 barbgrass (+2 yield - Perception>=2642)
+7 cocoon
+[next island]
+8 caiman (+5 attempts GP>=858)
+
+BTN 4A (34.1, 12.9)
+1 log
+[next island]
+2 raspberry
+3 caiman
+4 cocoon (+1 yield - Gathering>=2740)
+5 barbgrass
+[next island]
+6 log (+2 yield - Gathering>=2740)
+7 raspberry
+8 caiman (+5 attempts GP>=858)
+
+BTN 4B (33.7, 13.3)
+1 cocoon
+[next island]
+2 caiman
+3 raspberry
+4 log (+1 yield - Perception>=2642)
+5 barbgrass
+[next island]
+6 cocoon (+2 yield - Perception>=2642)
+7 caiman
+8 raspberry (+5 attempts GP>=858)
+
+BTN 5A (25.7, 6.5) [tree]
+1 raspberry
+[next island]
+2 caiman
+3 cocoon
+4 barbgrass (+1 yield - Gathering>=2740)
+5 log
+6 raspberry (+2 yield - Gathering>=2740)
+7 caiman
+8 cocoon (+5 attempts GP>=858)
+
+BTN 5B (25.6, 6.6) [vegetation]
+1 caiman
+2 raspberry
+3 log
+4 barbgrass (+1 yield - Perception>=2642)
+5 cocoon
+6 caiman (+2 yield - Perception>=2642)
+7 raspberry
+8 log (+5 attempts GP>=858)
+
+BTN 6A (16.3, 11.9)
+1 caiman
+2 cocoon
+3 barbgrass
+4 log (+1 yield - Gathering>=2740)
+5 raspberry
+6 cocoon (!) (+2 yield - Gathering>=2740)
+7 barbgrass (!)
+[next island]
+8 raspberry (!) (+5 attempts GP>=858)
+
+BTN 6B (17.5, 15.2)
+1 raspberry
+2 log
+3 raspberry (!)
+4 cocoon (+1 yield - Perception>=2642)
+5 caiman
+6 raspberry (+2 yield - Perception>=2642)
+7 log
+[next island]
+8 barbgrass (+5 attempts GP>=858)
+
